@@ -10,9 +10,8 @@
     "chai": "^4.3.4"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "mocha 'test/level1_test.js'"
-  },
+  "scripts": {},
+  
   "repository": {
     "type": "git",
     "url": "master"
