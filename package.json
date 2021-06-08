@@ -1,0 +1,22 @@
+{
+  "name": "vyte-dev-challenge",
+  "version": "1.0.0",
+  "description": "Thanks for applying to Vyte. If we've sent you this exercise, you've already made it through the first step of our selection process so congrats!",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha 'test/level1_test.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "master"
+  },
+  "author": "",
+  "license": "ISC"
+}
