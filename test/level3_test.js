@@ -2,7 +2,6 @@ const chai = require ('chai')
 const Appointment = require('../classes/Appointment')
 const Calendar = require('../classes/Calendar')
 let expect = chai.expect
-let assert = chai.assert
 
 let calendar = new Calendar()
 let appointment1 = new Appointment('06/21/2021 09:00',2)
